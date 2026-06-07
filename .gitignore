@@ -1,0 +1,12 @@
+.DS_Store
+.build/
+DerivedData/
+xcuserdata/
+*.xcuserstate
+
+# Local reference photos. These may contain personal camera captures and are not needed to build.
+screenshots/
+
+# Xcode local user settings
+*.xcuserdatad/
+*.xcscmblueprint
